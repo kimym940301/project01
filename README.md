@@ -16,7 +16,7 @@
 ## 사용기술 및 개발환경
   - 데이터 출처: 코로나 정부 사이트, 정부 발표자료 참고, 야후(경제)
   - 수집방법: csv 파일 다운로드
-  - 개발도구 : pandas, numpy, seaborn, calendar, sklearn
+  - 개발도구 : pandas, numpy, seaborn, sklearn
   - 개발언어 및 프레임워크 : python
   
 ## 분석 결과
